@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Luca Pasquetti Comelli Fritscher</h1>
 
-<!--
-**lucapcf/lucapcf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>🤓 I'm a computer engineering student at <a href="http://www.ufrgs.br/ufrgs/inicial">UFRGS</a> - Brazil.<br></p>
 
-Here are some ideas to get you started:
+<p>🤘 Currently diving deep into <strong>UNIX systems</strong>, <strong>Artificial Intelligence</strong> and <strong>Data Science</strong>.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>💪 When not coding, I am usually at the <strong>gym</strong> and/or listening to <strong>music</strong>.</p>
+
+<p>📚 I enjoy reading about <strong>psychology</strong>, <strong>physics</strong>, <strong>philosophy</strong>, and <strong>paleontology</strong>.</p>
+
+<p>📫 Reach me at <strong>lpcfritscher@ufrgs.inf.br</strong> or connect with me on <a href="https://www.linkedin.com/in/luca-pasquetti-comelli-fritscher">LinkedIn</a>.</p>
+
+---
+
+# 💻 Languages and Tools:
+
+### 🥇 Familiar:
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,next,react,django,bash,html,css,git,linux,arch,vim,netlify" alt="Familiar Tools" style="max-width: 100%; height: auto;">
+</a>
+
+### 🚀 Currently Learning:
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nginx,docker,cpp,latex,sklearn" alt="Currently Learning Tools" style="max-width: 100%; height: auto;">
+</a>
+
+### 🔍 Explored:
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=figma,postgres,mysql,sqlite,wordpress,c" alt="Explored Tools" style="max-width: 100%; height: auto;">
+</a>
